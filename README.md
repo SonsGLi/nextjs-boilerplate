@@ -1,4 +1,4 @@
-## Personal Website - Learning Edition
+## Personal Website [go](https://sonsgli.top) - Learning Edition
 
 This is a [Next.js](https://nextjs.org) project 
 

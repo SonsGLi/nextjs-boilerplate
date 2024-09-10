@@ -1,3 +1,5 @@
+## Personal Website - Learning Edition
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://www.sonsgli.top).
 
 ## Getting Started
